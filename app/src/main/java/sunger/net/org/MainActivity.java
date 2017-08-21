@@ -11,15 +11,20 @@ import org.sunger.net.view.CircularMenu;
 import sunger.net.org.a.R;
 
 public class MainActivity extends AppCompatActivity {
-/*
-* */
+    /*
+    * */
+    private String str
+            =
+            "asdlkfjalsdkfjlaksjflkasjkfasjdlfjaskldfjkadslfj" +
+                    "laskdjfalsdjflasdjflakdsjflasdlfakdsfaldsfasdlfajdsfkadflasdfaksf";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
- if(true){
+        if (true) {
 
- }
+        }
     }
-}
+}     /*
+     * 你好哇*/
